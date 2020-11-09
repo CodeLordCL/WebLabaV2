@@ -1,0 +1,105 @@
+.img
+{
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    
+    
+}
+img
+{
+    height: 200px;
+    border-radius: 10%;
+}
+body
+{
+    /*background-color: #987FAD;*/
+    background-image: url(Gif-VideoID-HfMQsXfDuno.gif);
+    background-size: cover;
+}
+.content
+{
+    position: absolute;
+    top: 0;
+    left: 300px;
+    font-size: 30px;
+    color:#ffc400;
+    font-family: 'Lobster', cursive;
+    font-family: 'Press Start 2P', cursive;
+}
+.box
+{
+    position: relative;    
+}
+.work
+{
+
+    position: absolute;
+    top: 300px;
+    width: 200px;
+    color: #ffc400;
+    font-family: 'Lobster', cursive;
+    font-family: 'Press Start 2P', cursive;
+}
+.game
+{
+    /*background-color: chartreuse;*/
+    position: relative; 
+    height: 300px;
+    width: 300px;
+    top:650px;
+}
+/*#player
+{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;  
+    left:0px;
+    right: 0px;    
+}*/
+.palyer1
+{
+    position: absolute;
+    background-color: #ffc400;
+    height: 100px;
+    width: 100px;
+    
+
+}
+.control
+{
+    background-color: chartreuse;
+    position: relative; 
+    height: 100px;
+    width: 100px;
+    top:650px;
+
+}
+#left
+{
+    position: absolute;
+    left: 0px;
+    top:20px;
+}
+#down
+{
+    position: absolute;
+    left: 20px;
+    top:20px;   
+}
+#right
+{
+    position: absolute;
+    left: 40px;
+    top:20px;  
+}
+#up
+{
+    position: absolute;
+    left: 20px;
+    top:10px;   
+}
